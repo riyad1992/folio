@@ -1,0 +1,1100 @@
+header {
+    max-width: 375px;
+    height: 940px;
+    background-image: url("./mobile_bg/Mask\ Group\ 3.png"), url("./mobile_bg/line-1.png");
+    background-repeat: no-repeat, no-repeat;
+    background-position: bottom, left 176px top;
+}
+header .main_icon{
+    height: 128px;
+    display: flex;
+    position: fixed;
+}
+header .main_icon .main_icon-img {
+    width: 127.2px;
+    height: 32px;
+    margin-top: 52px;
+    margin-left: 32px;
+}
+header .main_icon .menu_icon img{
+    width: 32px;
+    height: 12px;
+    margin-top: 62px;
+    margin-left: 151.8px;
+}
+header .left_side-part .header_heading h1{
+    width: 311px;
+    padding-top: 128px;
+    height: 298px;
+    margin-left: 32px;
+    font-family: SFProDisplay;
+    font-size: 48px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.17;
+    letter-spacing: -0.5px;
+    text-align: left;
+    color: #0d0c22;
+}
+
+header .left_side-part .header_paragrap p{
+    width: 275px;
+    height: 80px;
+    margin-left: 32px;
+    margin-top: 10px;
+    font-family: SFProDisplay;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.75;
+    letter-spacing: normal;
+    text-align: left;
+    color: #606060;
+}
+header .left_side-part .header_button-bottom button{
+    width: 90px;
+    height: 19px;
+    font-family: SFProDisplay;
+    font-size: 16px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.38;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+    width: 160px;
+    height: 56px;
+    border-radius: 8px;
+    background-color: #5468e7;
+    border: none;
+    margin-left: 32px;
+    margin-top: 40px;
+}
+header .left_side-part .header_icon-bottom {
+    display: none;
+}
+
+header .header_menu{
+    display: none;
+}
+
+header .header_button-top Button{
+    display: none;
+}
+
+
+
+.main__section{
+    max-width: 375px;
+}
+
+
+
+.frist__section {
+   
+    height: 1681px;
+    margin-top: 58px;
+    background-color: #232340;
+}
+.frist__section .frist__section_top-part .frist__section_top-part_logo img{
+    display: none;
+}
+.frist__section .frist__section_top-part .frist__section_top-part_logo p {
+    margin-left: 33px;
+    height: 16px;
+    font-family: SFProText;
+    font-size: 14px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 150px;
+    letter-spacing: normal;
+    text-align: left;
+    color: #adadad;
+}
+.frist__section .frist__section_top-part .frist__section_top-part_heading h1{
+    width: 233px;
+    height: 192px;
+    margin-top: 106px;
+    margin-left: 33px;
+    font-family: SFProDisplay;
+    font-size: 40px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: -0.4px;
+    text-align: left;
+    color: #ffffff;
+}
+.frist__section .frist__section_top-part .frist__section_top-part_heading .right-left_arrow-icon{
+    display: flex;
+    margin-top: 32px;
+    margin-left: 33px;
+}
+.frist__section .frist__section_top-part .frist__section_top-part_heading .right-left_arrow-icon .left_arrow-icon img{
+    width: 48px;
+    height: 48px;
+}
+.frist__section .frist__section_top-part .frist__section_top-part_heading .right-left_arrow-icon .right_arrow-icon img{
+    width: 48px;
+    height: 48px;
+    margin-left: 16px;
+}
+.frist__section .frist__section_top-part .frist__section_top-part_heading .right-left_arrow-icon .frist__section_mobile_item{
+    width: 144px;
+    height: 48px;
+    border-radius: 8px;
+    background-color: #323259;
+    display: flex;
+    margin-left: 54px;
+}
+.frist__section .frist__section_top-part .frist__section_top-part_heading .right-left_arrow-icon .frist__section_mobile_item p{
+    width: 31px;
+    height: 14px;
+    font-family: SFProText;
+    font-size: 12px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+    margin-left: 24px;
+    margin-top: 18px;
+}
+.frist__section .frist__section_top-part .frist__section_top-part_heading .right-left_arrow-icon .frist__section_mobile_item img{
+    width: 16px;
+    height: 14px;
+    object-fit: contain;
+    margin-top: 18px;
+    margin-left: 57px; 
+}
+
+.frist__section .frist__section_middle-part .frist__section_middle-part_img {
+    display: none;
+}
+
+.frist__section .frist__section_middle-part .frist_section_img_mob{
+    height: 424px;
+    margin-top: 56px;
+    object-fit: contain;
+    background-color: #ffc7df;
+    background-image: url("./Who\ We\ Are_mob.png"), url("./shape\ 3_mob.png");
+    background-repeat: no-repeat, no-repeat;
+    /*background-size: 375px 359.5px, 192.4px 424px;*/
+    background-position: top 24px left, left 182.6px top;
+}
+
+
+.frist__section .frist__section_middle-part .frist__section_middle-part_year-list{
+    display: none;
+}
+.frist__section .frist__section_last-part .frist__section_last-part_heading h2{
+    width: 311px;
+    height: 93px;
+    margin-top: 56px;
+    margin-left: 32px;
+    font-family: SFProDisplay;
+    font-size: 24px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: -0.2px;
+    text-align: left;
+    color: #adadad;
+}
+.frist__section .frist__section_last-part .frist__section_last-part_heading p{
+    width: 311px;
+    height: 93px;
+    margin-top: 43px;
+    margin-left: 32px;
+    font-family: SFProDisplay;
+    font-size: 12px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: -0.2px;
+    text-align: left;
+    color: #8b8b8b;
+}
+.frist__section .frist__section_last-part .frist__section_last-part_heading button{
+    width: 160px;
+    height: 56px;
+    margin-top: 41px;
+    margin-left: 32px;
+    padding: 17px 40px 20px;
+    border-radius: 8px;
+    background-color: #5468e7;
+    color: #ffffff;
+    border: none;
+}
+.frist__section .frist__section_last-part .bigest_branding {
+    width: 310px;
+    height: 310px;
+    margin-top: 56.5px;
+    margin-left: 32px;
+    background-color: #323259;
+    border-radius: 50%;
+    text-align: center;
+}
+.frist__section .frist__section_last-part .bigest_branding h1{
+    font-size: 140px;
+    color: #ffffff;
+    padding-top: 60px;
+}
+.frist__section .frist__section_last-part .bigest_branding p{
+    color:  #adadad;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.second__section {
+  
+    height: 2291px;
+    background-image: linear-gradient(to top, rgba(255, 255, 255, 0), rgba(237, 229, 240, 0.51)), url("./phone_mob.png"),url("./line\ 1_2nd\ section_mob.png"), url("./line\ 2_2nd\ section_mob.png");
+    background-repeat: no-repeat, no-repeat, no-repeat, no-repeat;
+    background-position: 0, top 1707px right;
+}
+.second__section .second__section_top-part .second__section_top_logopart img{
+    display: none;
+}
+
+.second__section .second__section_top-part .second__section_top_logopart p{
+    margin-left: 32px;
+    height: 16px;
+    font-family: SFProText;
+    font-size: 14px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.29;
+    letter-spacing: normal;
+    text-align: left;
+    color: #5468e7;
+}
+.second__section .second__section_top-part .second__section_top-part_heading h1{
+    width: 233px;
+    height: 192px;
+    margin: 26px 0 0 32px;
+    font-family: SFProDisplay;
+    font-size: 40px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: -0.4px;
+    text-align: left;
+    color: #0d0c22;
+}
+.second__section .second__section_top-part .second__section_top-part_heading .right-left_arrow-icon{
+    display: flex;
+    margin-top: 24px;
+    margin-left: 32px;
+}
+.second__section .second__section_top-part .second__section_top-part_heading .right-left_arrow-icon img{
+    width: 46px;
+    height: 46px;
+}
+
+.second__section .second__section_top-part .second__section_top-part_heading .right-left_arrow-icon .right_arrow-icon{
+    margin-left: 16px;
+}
+
+.second__section .second__section_middle-part {
+    margin-top: 56px;
+    margin-left: 32px;
+}
+.second__section .second__section_middle-part .second__section_middle-part_img {
+    width: 311px;
+    height: 190px;
+    margin: 0 0 24px;
+    border-radius: 32px;
+    background-color: #ffffff;
+    align-items: center;
+    display: inline-flex;
+}
+.second__section .second__section_middle-part .second__section_middle-part_img img{
+    width: 91px;
+    height: 91px;
+    margin-left: 48px;
+}
+.second__section .second__section_middle-part .second__section_middle-part_img p{
+    width: 69px;
+    height: 24px;
+    margin: 34px 0 33px 25px;
+    font-family: SFProDisplay;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: center;
+    color: #5468e7;
+}
+.second__section .second__section_middle-part .second__section_middle-part_img:hover {
+    background-color: #5468e7;
+    width: 311px;
+    height: 190px;
+}
+.second__section .second__section_last-part .second__section_top-part_logo img{
+    display: none;
+}
+.second__section .second__section_last-part .second__section_top-part_logo p{
+    width: 156px;
+    height: 24px;
+    margin-top: 56px;
+    margin-left: 32px;
+    font-family: SFProDisplay;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: left;
+    color: #0d0c22;
+}
+.second__section .second__section_last-part h2{
+    width: 227px;
+    height: 125px;
+    margin-left: 32px;
+    margin-top: 24px;
+    font-family: SFProDisplay;
+    font-size: 24px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: -0.2px;
+    text-align: left;
+    color: #0d0c22;
+}
+.second__section .second__section_last-part .bigest_branding2 h1{
+    width: 176px;
+    margin-left: 32px;
+    margin-top: 35px;
+    font-family: SFProDisplay;
+    font-size: 140px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #5468e7;
+}
+.second__section .second__section_last-part .bigest_branding2 p{
+    width: 196px;
+    height: 24px;
+    margin-left: 32px;
+    font-family: SFProDisplay;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    color: #0d0c22;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.therd__section {
+   
+    background-color: #ffffff;
+}
+
+.therd__section .therd__section_top-part .therd__section_top-part_logo img{
+    display: none;
+}
+
+.therd__section .therd__section_top-part .therd__section_top-part_logo p{
+    height: 16px;
+    margin-left: 32px;
+    font-family: SFProText;
+    font-size: 14px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.29;
+    letter-spacing: normal;
+    text-align: left;
+    color: #5468e7;
+}
+.therd__section .therd__section_top-part .therd__section_top-part_heading h1{
+    width: 255px;
+    height: 96px;
+    margin: 26px 0 0 32px;
+    font-family: SFProDisplay;
+    font-size: 40px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: -0.4px;
+    text-align: left;
+    color: #0d0c22;
+}
+.therd__section .therd__section_top-part .therd__section_top-part_heading button{
+    display: none;
+}
+.therd__section .therd__section_top-part .therd__section_top-part_logo .list4{
+    display: block;
+    font-size: 14px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.29;
+    letter-spacing: normal;
+    text-align: left;
+    color: #5468e7;
+    margin-left: 32px;
+}
+
+.therd__section .therd__section_top-part .therd__section_top-part_heading .therd__section_content{
+    display: block;
+    width: 311px;
+    height: 75px;
+    margin: 16px 32px 65px;
+    font-family: SFProDisplay;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.75;
+    letter-spacing: normal;
+    text-align: left;
+    color: #606060;
+}
+.therd__section .therd__section_middle-part .therd__section_left_side-part .dsk{
+    display: none;
+}
+
+.therd__section .therd__section_middle-part .therd__section_button-left_side-part_btn {
+    width: 311px;
+    height: 355.6px;
+    margin-left: 32px;
+    border-radius: 17.1px;
+    background-color: #ffce79;
+    background-image: url("./female_running.png");
+    background-repeat: no-repeat;
+    background-size: 311px 312.9px;
+    background-position: center;
+}
+.therd__section .therd__section_middle-part .therd__section_button-left_side-part_btn button{
+    width: 118px;
+    height: 28.4px;
+    margin-top: 303px;
+    margin-left: 23.9px;
+    padding: 7.8px 15.7px 9.6px 16.4px;
+    border-radius: 14.2px;
+    border: none;
+    background-color: #9a97ed;
+    font-family: SFProText;
+    font-size: 10px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.29;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+  
+}
+
+.therd__section .therd__section_middle-part .therd__section_heading h1{
+    display: none;
+}
+.therd__section .therd__section_middle-part .therd__section_left_side-part .wrappe_h1_p.therd__section_paragrap_for_desk{
+    display: none;
+}
+.therd__section .therd__section_middle-part .therd__section_heading h2{
+    width: 312px;
+    height: 32px;
+    margin-top: 24px;
+    margin-left: 32px;
+    font-family: SFProDisplay;
+    font-size: 24px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: -0.2px;
+    text-align: left;
+    color: #0d0c22;
+}
+
+.therd__section .therd__section_middle-part .therd__section_heading p{
+    width: 228px;
+    height: 84px;
+    margin: 16px 0 0 32px;
+    font-family: SFProDisplay;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.75;
+    letter-spacing: normal;
+    text-align: left;
+    color: #606060;
+}
+.therd__section .therd__section_middle-part .therd__section_heading img{
+    width: 48px;
+    height: 48px;
+    margin-top: 24px;
+    margin-left: 32px;
+    object-fit: contain;
+}
+.therd__section .therd__section_middle-part .therd__section_heading .for_picture {
+    width: 311px;
+    height: 355.6px;
+    margin: 32.4px 0 0 32px;
+    border-radius: 17.1px;
+    background-color: #e8beff;
+    background-image: url(./[\ 4\ ]\ –\ Main.png);
+    background-repeat: no-repeat;
+    background-size: 311px 308.7px;
+    background-position: center;
+}
+
+.therd__section .therd__section_middle-part .therd__section_woman_img{
+    display: none;
+}
+
+.therd__section .rap__vol2_and_vol3d .therd__section_bento_vol3d h2 {
+    width: 312px;
+    height: 32px;
+    margin-top: 24px;
+    margin-left: 32px;
+    font-family: SFProDisplay;
+    font-size: 24px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: -0.2px;
+    text-align: left;
+    color: #0d0c22;
+}
+.therd__section .rap__vol2_and_vol3d .therd__section_bento_vol3d p{
+    width: 228px;
+    height: 84px;
+    margin-top: 16px;
+    margin-left: 32px;
+    font-family: SFProDisplay;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.75;
+    letter-spacing: normal;
+    text-align: left;
+    color: #606060;
+}
+.therd__section .rap__vol2_and_vol3d .therd__section_bento_vol3d img{
+    width: 48px;
+    height: 48px;
+    margin: 24px 0 0 32px;
+    object-fit: contain;
+}
+.therd__section .rap__vol2_and_vol3d .vol_3d_dsk{
+    display: none;
+}
+.therd__section h6{
+    display: none;
+}
+.therd__section .rap__vol2_and_vol3d .therd__section_bento_vol3d .for_img_with_background {
+    width: 311px;
+    height: 355.6px;
+    margin-top: 32.4px;
+    margin-left: 32px;
+    border-radius: 17.1px;
+    background-color: #ffce79;
+    background-image: url("./[\ 4\ ]\ –\ Tablet.png");
+    background-repeat: no-repeat;
+    background-size: 311px 320.7px;
+    background-position: center;
+}
+
+.therd__section .rap__vol2_and_vol3d .therd__section_bento_vol2 .for_tablet_2_image {
+    width: 311px;
+    height: 355.6px;
+    margin-top: 32.4px;
+    margin-left: 32px;
+    border-radius: 17.1px;
+    background-color: #a2bcff;
+    background-image: url("./[\ 2\ ]\ –\ Tablet.png");
+    background-repeat: no-repeat;
+    background-size: 311px 344.9px;
+    background-position: center;
+}
+
+.therd__section .wrappe_vol3_and_man .therd__section_bento_vol3_man h2{
+    width: 312px;
+    height: 32px;
+    margin-top: 24px;
+    margin-left: 32px;
+    font-family: SFProDisplay;
+    font-size: 24px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: -0.2px;
+    text-align: left;
+    color: #0d0c22;
+}
+.therd__section .wrappe_vol3_and_man .therd__section_bento_vol3_man p{
+    width: 228px;
+    height: 84px;
+    margin-top: 16px;
+    margin-left: 32px;
+    font-family: SFProDisplay;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.75;
+    letter-spacing: normal;
+    text-align: left;
+    color: #606060;
+}
+.therd__section .wrappe_vol3_and_man .therd__section_bento_vol3_man img{
+    width: 48px;
+    height: 48px;
+    margin: 24px 0 0 32px;
+    object-fit: contain;
+}
+.therd__section .wrappe_vol3_and_man .therd__section_bento_vol3_man .picture_for_man_walk {
+    width: 311px;
+    height: 355.6px;
+    border-radius: 17.1px;
+    background-color: #d1ecfd;
+    margin-top: 32.4px;
+    margin-left: 32px;
+    background-image: url("./Male\ Walking.png");
+    background-repeat: no-repeat;
+    background-size: 311px 305.8px;
+    background-position: center;
+}
+
+.therd__section .wrappe_vol3_and_man .therd__section_bento_vol3 h2{
+    width: 312px;
+    height: 32px;
+    margin-top: 24px;
+    margin-left: 32px;
+    font-family: SFProDisplay;
+    font-size: 24px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: -0.2px;
+    text-align: left;
+    color: #0d0c22;
+}
+
+.therd__section .wrappe_vol3_and_man .therd__section_bento_vol3 p{
+    width: 228px;
+    height: 84px;
+    margin-top: 16px;
+    margin-left: 32px;
+    font-family: SFProDisplay;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.75;
+    letter-spacing: normal;
+    text-align: left;
+    color: #606060;
+}
+
+.therd__section .wrappe_vol3_and_man .therd__section_bento_vol3 img{
+    width: 48px;
+    height: 48px;
+    margin: 24px 0 0 32px;
+    object-fit: contain;
+}
+.therd__section .wrappe_vol3_and_man .therd__section_bento_vol3_man .picture_for_man_walk .Man_for_dsk{
+    display: none;
+}
+.therd__section .wrappe_vol3_and_man .therd__section_bento_vol3 .button_for_mob .bento_vol3_for_dsk{
+    display: none;
+}
+
+.therd__section .wrappe_vol3_and_man .therd__section_bento_vol3 .button_for_mob button{
+    width: 313px;
+    height: 46px;
+    margin: 48.4px 31px 0;
+    padding: 12.4px 116.5px 14.6px;
+    border-radius: 8px;
+    background-color: #5468e7;
+    border: none;
+    color: #ffffff;
+}
+
+.therd__secton_last-part .for_blue_backgraound img{
+    display: none;
+}
+
+.therd__secton_last-part .for_blue_backgraound {
+    height: 977px;
+    background-color: #5468e7;
+    border-radius: 28.4px;
+    background-image: url("./imgphne.png"), url("./Mask2.png");
+    background-repeat: no-repeat, no-repeat;
+    background-position: top 408px left, top 246.8px right;
+}
+
+.therd__secton_last-part .for_blue_backgraound .therd__section_last-part_content p{
+    height: 16px;
+    font-family: SFProText;
+    font-size: 14px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.29;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+    padding-top: 64px;
+    margin-left: 72px;
+}
+.therd__secton_last-part .for_blue_backgraound .therd__section_last-part_content h1{
+    width: 261px;
+    height: 226px;
+    font-family: SFProDisplay;
+    font-size: 48px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.17;
+    letter-spacing: -0.5px;
+    text-align: left;
+    color: #ffffff;
+    margin-top: 26px;
+    margin-left: 72px;
+}
+.therd__secton_last-part .for_blue_backgraound .therd__section_last-part_content .btn_for_apply button{
+    width: 143px;
+    height: 46px;
+    margin: 30px 118px 0 0;
+    padding: 12.4px 33.5px 14.6px;
+    border-radius: 8px;
+    background-color: #ffffff;
+    border: none;
+    color: #5468e7;
+    margin-top: 30px;
+    margin-left: 72px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.fourt__section{
+    
+    background-image: linear-gradient(to top, rgba(255, 255, 255, 0), rgba(237, 229, 240, 0.51)), url(./line\ 1_2nd\ section_mob.png);
+    background-repeat: no-repeat, no-repeat;
+    background-position: 0, left 160px top;
+}
+.fourt__section .fourt__section_left_side .fourt__section_left_side_icon img{
+    display: none;
+}
+.fourt__section .fourt__section_left_side .fourt__section_left_side_icon p{
+    height: 16px;
+    margin: 0 0 0 32px;
+    font-family: SFProText;
+    font-size: 14px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.29;
+    letter-spacing: normal;
+    text-align: left;
+    color: #5468e7;
+}
+.fourt__section .fourt__section_left_side .wrappe_h1_and_p h1{
+    width: 227px;
+    height: 48px;
+    margin: 26px 0 0 32px;
+    font-family: SFProDisplay;
+    font-size: 40px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.2;
+    letter-spacing: -0.4px;
+    text-align: left;
+    color: #0d0c22;
+}
+.fourt__section .fourt__section_left_side .wrappe_h1_and_p p{
+    width: 311px;
+    height: 75px;
+    margin: 24px 0 0 32px;
+    font-family: SFProDisplay;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.75;
+    letter-spacing: normal;
+    text-align: left;
+    color: #606060;
+}
+.fourt__section .fourt__section_left_side .wrappe_h1_and_p .fourt__section_left_side_right-arrow_icon{
+    display: none;
+}
+
+.fourt__section .fourt__section_right_side .wrappe_all_div{
+    margin-top: 57px;
+    margin-left: 32px;
+}
+
+.fourt__section .fourt__section_right_side .wrappe_all_div .fourt__section_right_side_gd{
+    width: 311px;
+    height: 175px;
+    margin: 0 0 15.6px;
+    padding: 45.5px 45px 44.9px 40px;
+    border-radius: 24px;
+    background-color: #ffffff;
+}
+.fourt__section .fourt__section_right_side .wrappe_all_div .fourt__section_right_side_gd h1{
+    width: 186px;
+    height: 29px;
+    margin: 0 0 7px;
+    font-family: SFProDisplay;
+    font-size: 24px;
+    font-weight: bold;
+}
+.fourt__section .fourt__section_right_side .wrappe_all_div .fourt__section_right_side_gd p{
+    width: 125px;
+    height: 19px;
+    margin: 7px 61px 0 0;
+    font-family: SFProDisplay;
+    font-size: 16px;
+    font-weight: normal;
+}
+.fourt__section .fourt__section_right_side .wrappe_all_div .fourt__section_right_side_gd img{
+    width: 14.2px;
+    height: 10px;
+    margin: 19.7px 187.8px 0 0;
+    object-fit: contain;
+}
+
+
+
+
+
+
+
+
+
+.fifth__section {
+   
+    width: 311px;
+    height: 548px;
+    margin-left: 32px;
+    border-radius: 24px;
+    background-color: #5468e7;
+    background-image: url("./line\ 1_2nd\ section_mob.png");
+    background-repeat: no-repeat;
+    background-position: left 55.6px top;
+}
+.fifth__section .fifth__section_top-part .fifth__section_top-part_icon{
+    display: none;
+}
+.fifth__section .fifth__section_top-part .spechbable_icon_mob{
+    width: 73px;
+    height: 73px;
+    object-fit: contain;
+    margin-top: 49px;
+    margin-left: 139px;
+}
+.fifth__section .fifth__section_top-part p{
+    height: 16px;
+    margin-left: 111px;
+    font-family: SFProText;
+    font-size: 14px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.29;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+}
+.fifth__section .fifth__section_top-part h2{
+    width: 236px;
+    height: 69px;
+    margin-top: 42PX;
+    margin-left: 38PX;
+    font-family: SFProDisplay;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+}
+
+.fifth__section .wrappe_fifth-section_h1_and_h2 H1{
+    width: 260px;
+    height: 78px;
+    margin-top: 85PX;
+    margin-left: 26PX;
+    font-family: SFProDisplay;
+    font-size: 32px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.25;
+    letter-spacing: -0.5px;
+    text-align: center;
+    color: #ffffff;
+}
+.fifth__section .wrappe_fifth-section_h1_and_h2 .fifth__section_bottom-part_right-side{
+    display: none;
+}
+
+.fifth__section .wrappe_fifth-section_h1_and_h2 button{
+    width: 263px;
+    height: 56px;
+    margin: 42px 24.5px 0 23.6px;
+    padding: 17px 91.5px 20px;
+    border-radius: 8px;
+    background-color: #ffffff;
+    color: #5468e7;
+    border: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+footer {
+    max-width: 375px;
+    background-image: url("./line\ 2.png");
+    background-repeat: no-repeat;
+    background-size: 342.7px 458px;
+}
+.footer__secton_top-part .footer__section_main-icon img {
+    width: 136px;
+    height: 35px;
+    margin-top: 80px;
+    margin-left: 120px;
+    object-fit: contain;
+}
+.footer__secton_top-part .footer__section_main-icon p {
+    width: 256px;
+    height: 46px;
+    margin-top: 32px;
+    margin-left: 60px;
+    font-family: SFProText;
+    font-size: 11px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: center;
+    color: #adadad;
+}
+
+.footer__secton_top-part .footer__section_main-icon div{
+    display: none;
+}
+.footer__secton_top-part .footer__section_main-icon select{
+    width: 311px;
+    height: 48px;
+    margin: 34px 0 32px 32px;
+    padding: 16px 24px 18px;
+    border-radius: 8px;
+    border: solid 1px #d8d8d8;
+}
+
+.footer__secton_top-part .footer__section_footer .footer__section_footer-menu_mob ul{
+    display: flex;
+    list-style: none;
+    margin-left: 120px;
+}
+
+.footer__secton_top-part .footer__section_footer .footer__section_footer-menu_mob ul li{
+    width: 40px;
+    height: 40px;
+    margin: 0 0 0 8px;
+    padding: 12px 16.7px 16.6px 12px;
+    border: solid 1px #d8d8d8;
+    border-radius: 50%;
+    background-color: #ffffff;
+}
+
+.footer__secton_top-part .footer__section_footer .footer__section_footer-menu {
+    display: none;
+}
+
+.footer__secton_top-part .footer__section_footer p {
+    width: 102px;
+    height: 15px;
+    margin: 32px 17px 0;
+    margin-left: 137px;
+    margin-bottom: 50px;
+    font-family: SFProText;
+    font-size: 11px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: left;
+    color: #adadad;
+}
+
